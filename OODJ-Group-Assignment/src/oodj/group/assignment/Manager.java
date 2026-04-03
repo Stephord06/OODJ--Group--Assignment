@@ -9,5 +9,5 @@ package oodj.group.assignment;
  * @author wongj
  */
 public class Manager {
-    
+ // Hello   
 }
